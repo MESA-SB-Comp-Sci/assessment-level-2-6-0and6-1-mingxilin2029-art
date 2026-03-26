@@ -1,4 +1,29 @@
 * {
     box-sizing: border-box;
 }
-
+.h1-a{
+    background-color: pink;
+    color:white;
+}
+body{
+    background-color: darkgrey;
+}
+.p1{
+    color:yellow;
+}
+.p2{
+    color:greenyellow;
+}
+.p3{
+    color:aqua;
+}
+.border1{
+    margin: 50px;
+    padding: 50px;
+    background-color: white;
+    border :50px rgb(255, 255, 4);
+}
+p{
+    color: white;
+    display: block;
+}
