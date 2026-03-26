@@ -18,10 +18,10 @@ body{
     color:aqua;
 }
 .border1{
-    margin: 50px;
     padding: 50px;
     background-color: white;
-    border :50px rgb(255, 255, 4);
+    border :10px solid yellow;
+    
 }
 p{
     color: white;
