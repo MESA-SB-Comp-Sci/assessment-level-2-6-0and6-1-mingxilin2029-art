@@ -15,13 +15,13 @@ body{
     color:greenyellow;
 }
 .p3{
-    color:aqua;
+    color:aquamarine;
 }
 .border1{
-    padding: 50px;
+    padding-bottom: 50px;
     background-color: white;
-    border :10px solid orange;
-    
+    border :5px solid orange;
+    height: 150px;
 }
 p{
     color: white;
